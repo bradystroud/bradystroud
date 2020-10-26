@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![Bradys's github stats](https://github-readme-stats.vercel.app/api?username=bradystroud) This is not working right now--> 
+![Bradys's github stats](https://github-readme-stats.vercel.app/api?username=bradystroud) This is not working right now
