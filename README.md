@@ -13,4 +13,4 @@ I am currently learning:
 
 
 
-![Bradys's github stats](https://github-readme-stats.vercel.app/api?username=bradystroud)
+![Bradys's github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&bg_color=black&text_color=white)
