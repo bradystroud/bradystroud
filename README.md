@@ -14,3 +14,4 @@ I am currently learning:
 
 
 ![Bradys's github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BradyStroudlayout=compact&hide_title=true&card_width=445)
