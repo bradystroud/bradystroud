@@ -7,9 +7,11 @@ I work with multiple development tools and languages such as:
  * Python
  * .NET
  * React
+ * Angular
 
 I am currently learning:
  * C
+ * JavaScript
 
 
 
