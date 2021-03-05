@@ -1,18 +1,20 @@
 ### Hi there, I'm Brady.
 
-I am an aspiring Software Developer from Brisbane.
+I am Software Developer at SSW Brisbane.👨🏻‍💻
 
-I work with multiple development tools and languages such as:
- * Flutter/Dart
- * Python
+I have worked with multiple development tools and languages such as:
+ * Flutter/Dart 📱
+ * Python 🐍
  * .NET
- * React
+ * React 
  * Angular
+ * Azure ☁️
+ * JavaScript 
+ * HTML 
+ * CSS
 
 I am currently learning:
- * C
- * JavaScript
-
+ * A bit of everything
 
 
 ![Bradys's github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
