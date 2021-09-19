@@ -18,6 +18,12 @@ I am currently learning:
  * Blazor 🔥
 
 
+<a href="https://www.linkedin.com/in/bradystroud">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<p/>
+
+
 ![Bradys's github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
 
 
