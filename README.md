@@ -3,7 +3,7 @@
 I am a Software Developer at [SSW](https://ssw.com.au) Brisbane.👨🏻‍💻  
 [https://ssw.com.au/people/bradystroud](https://ssw.com.au/people/bradystroud)
 
-I build full stack solutions using a varitey of technologies:
+I build full stack solutions using a variety of technologies:
 
  * Blazor 🔥
  * .NET 💜
