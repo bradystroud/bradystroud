@@ -13,9 +13,6 @@ I build full stack solutions using a variety of technologies:
  * Azure ☁️
  * Flutter 📱
  * Python 🐍
- * JavaScript 📜
- * HTML 📄
- * CSS 💄
 
 This year I'm learning more about DevOps and Azure so I can build more complex solutions.
 
