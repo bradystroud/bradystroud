@@ -12,7 +12,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
-          token: ${{ secrets.METRICS_GIST_TOKEN }}
+          token: ${{ secrets.METRICS_PAT }}
           template: classic
           base: header, metadata
           config_order: base.header, isocalendar, languages, achievements
