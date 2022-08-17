@@ -16,8 +16,10 @@ I build full stack solutions using a variety of technologies:
 
 This year I'm learning more about DevOps and Azure so I can build more complex solutions.
 
+<div style="display: flex; justify-content: center;">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
 
 
 ![metrics](general.svg)
+</div>
