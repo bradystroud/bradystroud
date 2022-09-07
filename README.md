@@ -1,6 +1,6 @@
 ### Hi there, I'm Brady. 👋
 
-I am a Software Developer at [SSW](https://ssw.com.au) Brisbane.👨🏻‍💻  
+I am a Software Engineer at [SSW](https://ssw.com.au) Brisbane.👨🏻‍💻  
 [https://ssw.com.au/people/bradystroud](https://ssw.com.au/people/bradystroud)
 
 I build full stack solutions using a variety of technologies:
