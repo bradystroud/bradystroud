@@ -7,7 +7,7 @@ I build full stack solutions using a variety of technologies:
 
  * Blazor 🔥
  * .NET 💜
- * MAUI 🤖
+ * MAUI 🤖 (Previously Xamarin)
  * React 💻 
  * Angular 🌐
  * Azure ☁️
