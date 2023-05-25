@@ -16,7 +16,7 @@ Here are some of the programming languages, tools, and technologies that I am pr
 - Flutter 📱
 - Python 🐍
 
-I have experience working with Agile methodologies and implementing best practices in Software Engineering, including test-driven development 🧪, continuous integration 🚀, and continuous delivery 🚚.
+I have experience working with Agile methodologies and implementing best practices in Software Engineering.
 
 <!-- ### Portfolio 🎨
 
@@ -39,3 +39,4 @@ If you have an idea for a project or need help with software development, don't 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
 </div>
+🤖
