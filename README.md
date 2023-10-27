@@ -9,12 +9,13 @@ I'm a Software Engineer based in Brisbane, Australia, with a strong background i
 Here are some of the programming languages, tools, and technologies that I am proficient in and have experience using:
 
 - Blazor 🔥
-- .NET 💜
-- MAUI (Previously Xamarin)🤖
-- React 💻
-- Azure ☁️
-- Flutter 📱
-- Python 🐍
+- Semantic Kernel
+- AI
+- .NET
+- MAUI (Previously Xamarin)
+- React
+- Azure
+- Flutter
 
 I have experience working with Agile methodologies and implementing best practices in Software Engineering.
 
