@@ -2,18 +2,22 @@
 
 ### About Me 🙋‍♂️
 
-I'm a Software Engineer based in Brisbane, Australia, with a strong background in full-stack development. I work at SSW as a Software Engineer, where I build innovative and scalable solutions for clients.
+I'm a Software Engineer based in Brisbane, Australia. I work at SSW, where I build full-stack applications for clients to help solve their complex business problems. Internally, I manage some development teams at SSW and oversee internal resources to ensure we have efficient operations.
+
+I work on a few cool personal projects, to solve problems I have or to learn something new. Check out the pinned repos :)
 
 ### Skills and Experience 🚀
 
-Here are some of the programming languages, tools, and technologies that I am proficient in and have experience using:
+Here are some of the techs that I am proficient in and have experience using:
 
 - Blazor 🔥
-- Semantic Kernel
-- AI
+- AI - Semantic Kernel
+- AI - OpenAI API
 - .NET
-- MAUI (Previously Xamarin)
+- .NET MAUI (Previously Xamarin)
+- TinaCMS
 - React
+- Next.Js
 - Azure
 - Flutter
 
@@ -33,10 +37,7 @@ I made this https://github.com/SSWConsulting/TimesheetGPT
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/bradystroud/) and [Twitter](https://twitter.com/bradystroud_). I'm always open to connecting with fellow developers and discussing exciting projects or collaboration opportunities.
 
-### Let's Collaborate 🤝
-
-If you have an idea for a project or need help with software development, don't hesitate to reach out. I'm always looking for new and exciting opportunities to collaborate and learn from others. 💡🌟
-
+Check out my instagram for non-tech stuff (travel, adventure) [@bradystroud](https://www.instagram.com/bradystroud/)
 
 <div align="center">
 
