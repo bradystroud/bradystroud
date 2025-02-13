@@ -36,7 +36,7 @@ I made this https://github.com/SSWConsulting/TimesheetGPT
 
 ### Connect with Me 📞
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/bradystroud/) and [Twitter](https://twitter.com/bradystroud_). I'm always open to connecting with fellow developers and discussing exciting projects or collaboration opportunities.
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/bradystroud/) and [Twitter](https://twitter.com/bradystroud_)
 
 Check out my instagram for non-tech stuff (travel, adventure) [@bradystroud](https://www.instagram.com/bradystroud/)
 
