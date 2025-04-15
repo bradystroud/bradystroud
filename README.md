@@ -40,6 +40,9 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/bradystroud/) 
 
 Check out my instagram for non-tech stuff (travel, adventure) [@bradystroud](https://www.instagram.com/bradystroud/)
 
+Read
+https://www.bradystroud.dev/blogs/
+
 <div align="center">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
