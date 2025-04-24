@@ -5,7 +5,7 @@
 I'm a Software Engineer based in Brisbane, Australia. I work at SSW, where I build full-stack applications for clients to help solve their complex business problems. Internally, I manage some development teams at SSW and oversee internal resources to ensure we have efficient operations.
 I work hard to improve SSWs processes and standartize repeated operations to give employees a better experience.
 
-I work on a few cool personal projects, to solve problems I have or to learn something new. Check out the pinned repos :)
+I work on a few cool personal projects, to solve problems I have or to learn something new. Check out the pinned repos :) ⬇️
 
 ### Skills and Experience 🚀
 
