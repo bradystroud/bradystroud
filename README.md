@@ -41,4 +41,3 @@ Check out my instagram for non-tech stuff (travel, adventure) [@bradystroud](htt
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
 </div>
-🤖
