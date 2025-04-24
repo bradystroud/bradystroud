@@ -12,36 +12,30 @@ I work on a few cool personal projects, to solve problems I have or to learn som
 Here are some of the techs that I am proficient in and have experience using:
 
 - Blazor 🔥
+- Azure
 - AI - Semantic Kernel
 - AI - OpenAI API
+- AI - MCP Servers
 - .NET
 - .NET MAUI (Previously Xamarin)
-- TinaCMS
+- TinaCMS 🦙
 - React
 - Next.Js
-- Azure
+- Supabase
 - Flutter
 
 I have experience working with Agile methodologies and implementing best practices in Software Engineering.
 
-<!-- ### Portfolio 🎨
+### Portfolio 🎨
 
-Check out some of my notable projects on GitHub and my website.
-
-
-Project 2: Description of the project and the technologies used.
-Project 3: Description of the project and the technologies used. -->
-
-I made this https://github.com/SSWConsulting/TimesheetGPT
+Check out some of my notable projects on my website.
+https://bradystroud.dev
 
 ### Connect with Me 📞
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/bradystroud/) and [Twitter](https://twitter.com/bradystroud_)
 
 Check out my instagram for non-tech stuff (travel, adventure) [@bradystroud](https://www.instagram.com/bradystroud/)
-
-Read
-https://www.bradystroud.dev/blogs/
 
 <div align="center">
 
