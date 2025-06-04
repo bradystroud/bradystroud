@@ -3,7 +3,7 @@
 ### About Me 🙋‍♂️
 
 I'm a Software Engineer based in Brisbane, Australia. I work at SSW, where I build full-stack applications for clients to help solve their complex business problems. Internally, I manage some development teams at SSW and oversee internal resources to ensure we have efficient operations.
-I work hard to improve SSWs processes and standartize repeated operations to give employees a better experience.
+I work hard to improve SSW's processes and standardize repeated operations to give employees a better experience.
 
 I work on a few cool personal projects, to solve problems I have or to learn something new. Check out the pinned repos :) ⬇️
 
@@ -20,7 +20,7 @@ Here are some of the techs that I am proficient in and have experience using:
 - .NET MAUI (Previously Xamarin)
 - TinaCMS 🦙
 - React
-- Next.Js
+- Next.js
 - Supabase
 - Flutter
 
@@ -35,7 +35,7 @@ https://bradystroud.dev
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/bradystroud/) and [Twitter](https://twitter.com/bradystroud_)
 
-Check out my instagram for non-tech stuff (travel, adventure) [@bradystroud](https://www.instagram.com/bradystroud/)
+Check out my Instagram for non-tech stuff (travel, adventure) [@bradystroud](https://www.instagram.com/bradystroud/)
 
 <div align="center">
 
